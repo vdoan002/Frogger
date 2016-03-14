@@ -9,7 +9,7 @@ Hit a car or fall off the edge and you lose a life!
 You have 3 lives.
 
 ##Watch The Demo  
-[![Wath the Demo](https://i.ytimg.com/vi/RDPUJa01T_c/mqdefault.jpg)](https://www.youtube.com/embed/RDPUJa01T_c)
+[![Wath the Demo](https://i.ytimg.com/vi/RDPUJa01T_c/mqdefault.jpg)](https://youtu.be/RDPUJa01T_c)
 
 ##Info
 *  Programmed on the ATMEGA1284 Micro Controller
