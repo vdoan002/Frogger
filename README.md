@@ -8,10 +8,10 @@ Collect the shinny coin before reaching the end of the stage to recieve a point.
 Hit a car or fall off the edge and you lose a life!
 You have 3 lives.
 
-##Watch The Demo  
+## Watch The Demo  
 [![Wath the Demo](https://i.ytimg.com/vi/RDPUJa01T_c/mqdefault.jpg)](https://youtu.be/RDPUJa01T_c)
 
-##Info
+## Info
 *  Programmed on the ATMEGA1284 Micro Controller
 *  Messages and instructions displayed on an LCD Screen
 *  Game play output on an 8x8 LED Matrix
